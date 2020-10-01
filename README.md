@@ -9,7 +9,7 @@
 
     Project-status: STABLE
 
-[![Build Status](https://play-war.ci.cloudbees.com/job/Play_2_War_Run_integration_tests_-_Play_22x/badge/icon)](https://play-war.ci.cloudbees.com/job/Play_2_War_Run_integration_tests_-_Play_22x/)
+[![*Build Status*](https://play-war.ci.cloudbees.com/job/Play_2_War_Run_integration_tests_-_Play_22x/badge/icon)](https://play-war.ci.cloudbees.com/job/Play_2_War_Run_integration_tests_-_Play_22x/)
 
 See also [archived versions](#versions-not-supported-anymore).
 
@@ -27,7 +27,7 @@ You can trust this plugin because it is [heavily tested](https://play-war.ci.clo
 Other references built with Play 2 and Play2War:
  - [Factile](http://factile.net/) (Survey platform)
 
-## What's new ?
+## What's new****** ?
 
 See [releases and changelog](https://github.com/play2war/play2-war-plugin/releases/).
 
